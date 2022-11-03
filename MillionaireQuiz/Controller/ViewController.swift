@@ -14,7 +14,7 @@ class ViewController: UIViewController {
        
     }
     @IBAction func startGame(){
-        @IBAction func pressedStartGame(_ sender: UIButton) {
+        func pressedStartGame(_ sender: UIButton) {
             let vc = storyboard.?instantiateViewController(identifier: "Game") as! GameViewController
             vc.presentationController?.presentationStyle()
             present(UIViewController, animated: true)
