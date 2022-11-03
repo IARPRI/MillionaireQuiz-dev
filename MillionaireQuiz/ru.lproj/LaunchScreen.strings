@@ -1,0 +1,39 @@
+
+/* Class = "UIViewController"; title = "Loading"; ObjectID = "01J-lp-oVM"; */
+"01J-lp-oVM.title" = "Loading";
+
+/* Class = "UIViewController"; title = "Main"; ObjectID = "63Q-5l-hzU"; */
+"63Q-5l-hzU.title" = "Main";
+
+/* Class = "UILabel"; text = "@eqip2022 @IARPRI @EvgenMi @HolyBuddha"; ObjectID = "7xg-y9-amA"; */
+"7xg-y9-amA.text" = "@eqip2022 @IARPRI @EvgenMi @HolyBuddha";
+
+/* Class = "UIViewController"; title = "Rules"; ObjectID = "Bx5-Ph-8VQ"; */
+"Bx5-Ph-8VQ.title" = "Rules";
+
+/* Class = "UIViewController"; title = "Game"; ObjectID = "FCI-sF-Sxr"; */
+"FCI-sF-Sxr.title" = "Game";
+
+/* Class = "UIButton"; configuration.title = "Правила игры"; ObjectID = "R9B-ey-mgK"; */
+"R9B-ey-mgK.configuration.title" = "Правила игры";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "R9B-ey-mgK"; */
+"R9B-ey-mgK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "SWIFT MARAPHON 5.0"; ObjectID = "TVb-VA-ood"; */
+"TVb-VA-ood.text" = "SWIFT MARAPHON 5.0";
+
+/* Class = "UILabel"; text = "Правила игры"; ObjectID = "b6J-Qk-1tg"; */
+"b6J-Qk-1tg.text" = "Правила игры";
+
+/* Class = "UIButton"; configuration.title = "Новая игра"; ObjectID = "ipN-IH-lMW"; */
+"ipN-IH-lMW.configuration.title" = "Новая игра";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ipN-IH-lMW"; */
+"ipN-IH-lMW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Team ONE"; ObjectID = "jbu-np-tXY"; */
+"jbu-np-tXY.text" = "Team ONE";
+
+/* Class = "UILabel"; text = "CHALLENGE #1"; ObjectID = "rgm-QZ-n8V"; */
+"rgm-QZ-n8V.text" = "CHALLENGE #1";
